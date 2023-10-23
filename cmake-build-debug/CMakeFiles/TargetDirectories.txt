@@ -1,0 +1,3 @@
+C:/Users/Gursimar Singh/Documents/College/Singh_Gursimar_CA3/Singh_Gursimar_CA3/cmake-build-debug/CMakeFiles/bugslife.dir
+C:/Users/Gursimar Singh/Documents/College/Singh_Gursimar_CA3/Singh_Gursimar_CA3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Gursimar Singh/Documents/College/Singh_Gursimar_CA3/Singh_Gursimar_CA3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
