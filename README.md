@@ -9,9 +9,9 @@ Welcome to **Bug's Life**, an exciting C++ game with a graphical user interface 
 
 1. **Hopper Bug**: The Hopper Bug can jump one space at a time.
 
-2. **Crawler Bug**: The Crawler Bug can move one block in any direction.
+2. **Crawler Bug**: The Crawler Bug can move one block in either x or y direction.
 
-3. **Super Bug**: You can manually control the Super Bug. It has the power to move in any direction and hunt down other bugs. It is the only bug that can move diagonally.
+3. **Super Bug**: You can manually control the Super Bug. 
 
 4. **Smart Bug**: The Smart Bug is intelligent and capable of analyzing the playfield. It always aims to hunt down the smallest bug. It takes the shortest path to reach its target, which may include diagonal movement.
 
