@@ -1,7 +1,5 @@
 # Bug's Life
 
-![Bugs Life]
-![image](https://github.com/gursimar03/Bugs-Life/assets/49545220/ceeac9a6-8cce-494e-8c07-6b3db8a86225)
 
 Welcome to **Bug's Life**, an exciting C++ game with a graphical user interface (GUI) where bugs of different sizes compete for survival in a grid. In this game, bugs eat each other based on their sizes, and each bug has unique abilities.
 
@@ -24,6 +22,7 @@ Welcome to **Bug's Life**, an exciting C++ game with a graphical user interface 
 ### Game Progress
 
 - The game keeps track of all bug interactions, kills, and the overall progress of the game.
+![image](https://github.com/gursimar03/Bugs-Life/assets/49545220/ceeac9a6-8cce-494e-8c07-6b3db8a86225)
 
 ### Game Completion
 
